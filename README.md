@@ -33,3 +33,5 @@ Detail of the formula:
 
 ## 3/4: clock angle
 
+- I hope the snake game doesn't have more than 100 locations.
+
