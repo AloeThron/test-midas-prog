@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node test/bin.ts",
     "dev1": "ts-node question/question-1.ts",
     "dev2": "ts-node question/question-2.ts",
     "dev3": "ts-node question/question-3.ts",

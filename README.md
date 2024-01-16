@@ -2,6 +2,7 @@
 
 Description in each question
 
+
 ## 1/4: clock angle
 
 The angle between the hour and minute hands on an analog clock can be calculated using the following formula:
@@ -23,4 +24,12 @@ Detail of the formula:
 - 6: The number of degrees the minute hand moves for each minute (360°/60)
 
 - | |: Absolute value to ensure the result is a positive angle
+
+
+## 2/4: clock angle
+
+- Get 3 words and separate the words that are similar.
+
+
+## 3/4: clock angle
 

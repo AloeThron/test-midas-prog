@@ -1,4 +1,4 @@
-export function getClockAngle(hh_mm: string) {
+export function getClockAngle(hh_mm: string): number {
   const [hourStr, minuteStr] = hh_mm.split(":");
 
   let hour = parseInt(hourStr);
