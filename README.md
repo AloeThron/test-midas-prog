@@ -6,7 +6,9 @@ Description in each question
 
 The angle between the hour and minute hands on an analog clock can be calculated using the following formula:
 
+```
 Angle = |(hour * 30 + minute * 0.5) - (minute * 6)|
+```
 
 Detail of the formula:
 
