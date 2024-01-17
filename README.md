@@ -26,12 +26,16 @@ Detail of the formula:
 - | |: Absolute value to ensure the result is a positive angle
 
 
-## 2/4: clock angle
+## 2/4: Remote Associates Test
 
 - Get 3 words and separate the words that are similar.
 
 
-## 3/4: clock angle
+## 3/4:  Snakes and ladders
 
 - I hope the snake game doesn't have more than 100 locations.
 
+
+## 4/4: one dimension trip
+
+- Dijkstra's algorithm ?

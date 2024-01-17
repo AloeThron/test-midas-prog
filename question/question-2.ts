@@ -48,9 +48,3 @@ export function getQuestionPart(phrases: string[]): string[] {
   return result;
 }
 
-// console.log(getQuestionPart(["BATHROOM", "SALTS BATH", "BLOODBATH"]));
-// console.log(getQuestionPart(["BATHROOM", "BATH SALTS", "BLOODBATH"]));
-// console.log(getQuestionPart(["BEFRIEND", "GIRLFRIEND", "FRIENDSHIP"]));
-// console.log(getQuestionPart(["BOOKSHELF", "NOTEBOOK", "SCRAPBOOK"]));
-// console.log(getQuestionPart(["WHATSHELF", "NOTEWHAT", "SCRAPWHAT"]));
-// console.log(getQuestionPart(["CANDLELIGHT", "STARLIGHT", "MOONLIGHT"]));

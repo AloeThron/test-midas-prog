@@ -30,11 +30,3 @@ export function getClockAngle(hh_mm: string): number {
 
   return angle;
 }
-
-// console.log(getClockAngle("03:45"));
-// console.log(getClockAngle("06:15"));
-// console.log(getClockAngle("20:20"));
-// console.log(getClockAngle("01:59"));
-
-// console.log(getClockAngle("24:30"));
-// console.log(getClockAngle("12:60"));
